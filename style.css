@@ -52,3 +52,4 @@ body {
 	flex-direction:column;
 }
 }
+body {overflow-y: hidden;}
